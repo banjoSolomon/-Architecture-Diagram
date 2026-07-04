@@ -1,6 +1,7 @@
 Architecture Diagram Readme: Multi-Tier Application on AWS with Hybrid Connectivity
 This document provides a high-level overview of the architecture depicted in the diagram. It outlines the different components, their relationships, and the overall flow of traffic and data within the system.
 
+
 I. Overview
 
 The diagram illustrates a multi-tier application hosted on Amazon Web Services (AWS) with a hybrid connectivity to an on-premises environment. The application appears to be composed of web, application, and data layers, leveraging various AWS services for scalability, security, and management. It also establishes a secure connection to resources residing in an on-premises data center.
